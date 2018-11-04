@@ -19,7 +19,7 @@ h1 {
 }
 
 h2 {
-  font-weight: 100;
+  font-weight: 200;
 }
 
 .text {
@@ -30,8 +30,8 @@ h2 {
   text-align: center;
   background-color: #000;
   border-radius: 50%;
-  width: 22em;
-  height: 22em;
+  width: 23em;
+  height: 23em;
   display: flex;
   justify-content: center;
   align-items: center;
